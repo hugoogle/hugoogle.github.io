@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Dr.Explain (www.drexplain.com)" />
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Guia Prático">
+<param name="Local" value="application.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Incluir Inventário de Estoque com Endereçamento Logistíco">
+<param name="Local" value="module_1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Abertura">
+<param name="Local" value="window_1_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Painel Inclusão Parcial - Inventário">
+<param name="Local" value="window_1_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Inventário de Estoque - Painel">
+<param name="Local" value="window_1_3.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Visualizar Lotes">
+<param name="Local" value="window_1_3_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Críticas">
+<param name="Local" value="window_1_3_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Análise do Inventário">
+<param name="Local" value="window_1_3_3.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Críticas">
+<param name="Local" value="window_1_3_3_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Divergência da Contagem">
+<param name="Local" value="window_1_3_3_2.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Relatorio para Recontar no Inventário">
+<param name="Local" value="window_1_3_3_2_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Relatório de Contagem do Inventário">
+<param name="Local" value="window_1_3_3_2_2.htm">
+</OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Botão Fechamento do Inventário">
+<param name="Local" value="window_1_4.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Prosseguir Com o Fechamento">
+<param name="Local" value="window_1_4_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Confirmação de Fechamento do Inventário">
+<param name="Local" value="window_1_4_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="e-mail">
+<param name="Local" value="window_1_4_3.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consulta do Inventário Fechado">
+<param name="Local" value="window_1_4_4.htm">
+</OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Auditoria para Inventário de Estoque Logísitico">
+<param name="Local" value="module_2.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value=" Mobile">
+<param name="Local" value="window_2_1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consulta do Inventário">
+<param name="Local" value="window_2_1_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Endereço Logístico">
+<param name="Local" value="window_2_1_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Inclusão do Produto no Inventário">
+<param name="Local" value="window_2_1_3.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Digitação">
+<param name="Local" value="window_2_1_3_1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Fechar Contagem">
+<param name="Local" value="window_2_1_3_1_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consulta do Item Coletado">
+<param name="Local" value="window_2_1_3_1_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Produto Não Inventáriado">
+<param name="Local" value="window_2_1_3_1_3.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lote Fechado">
+<param name="Local" value="window_2_1_3_1_4.htm">
+</OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Relatório Status de Lotes do Inventário Logístico ">
+<param name="Local" value="module_3.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manutenção nos  Endereços Coletados">
+<param name="Local" value="window_3_1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Grid de Manutenção">
+<param name="Local" value="window_3_1_1.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manutenção da Quantidade">
+<param name="Local" value="window_3_1_2.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Fechamento do Lote">
+<param name="Local" value="window_3_1_3.htm">
+</OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>
